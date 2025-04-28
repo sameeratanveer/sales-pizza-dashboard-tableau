@@ -10,6 +10,12 @@ The interactive dashboard provides insights into total revenue, top-selling pizz
 | :------: | :--------------------: |
 | ![Home Tab](HOME.png) | ![Best Worst Sellers Tab](Best_Worst_Seller.png) |
 
+## 🌐 View Dashboard Online
+
+👉 [**View the Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/sameera.tanveer/viz/PizzaSalesDashboard-Project2ProjectBasedLearning/BestWorstSeller)
+
+
+
 ## Domain Knowledge
 Pizza businesses operate in a highly competitive food market where understanding customer preferences, peak business hours, and product performance is crucial for maximizing revenue and operational efficiency.
 
